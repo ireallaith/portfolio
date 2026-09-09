@@ -2,14 +2,6 @@
   {
     "type": "writing",
     "tag": "RESEARCH",
-    "date": "2026.03.20",
-    "title": "Comparing Query Plans: When PostgreSQL Picks the Wrong Index",
-    "excerpt": "A dive into EXPLAIN ANALYZE output, why the planner sometimes prefers a sequential scan, and how table statistics change its mind.",
-    "link": "#"
-  },
-  {
-    "type": "writing",
-    "tag": "RESEARCH",
     "date": "2026.02.14",
     "title": "Why Your Neural Network Won't Converge (and What Fixed Mine)",
     "excerpt": "A debugging log from three failed training runs, one exploding gradient, and the learning-rate fix that actually worked.",
