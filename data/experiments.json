@@ -1,0 +1,27 @@
+[
+  {
+    "type": "project",
+    "icon": "flask",
+    "title": "Prompting My Way to a Chrome Extension in One Evening",
+    "excerpt": "Wanted to see how far AI pair-programming could take a weekend idea. Ended up with an extension that summarizes long articles on the fly.",
+    "tech": "JavaScript · Chrome APIs",
+    "github": "#"
+  },
+  {
+    "type": "writing",
+    "tag": "EXPERIMENT",
+    "date": "2025.12.10",
+    "title": "Does WebGPU Actually Speed Up In-Browser ML?",
+    "excerpt": "Benchmarked a tiny neural net running via WebGPU against the same thing on WASM, right in the browser. The results surprised me.",
+    "tech": "WebGPU · TensorFlow.js",
+    "link": "#"
+  },
+  {
+    "type": "project",
+    "icon": "flask",
+    "title": "A Weekend With a Raspberry Pi and a Bad Idea",
+    "excerpt": "Wired up a Pi to blink a red LED whenever the CI pipeline fails. More satisfying than it has any right to be.",
+    "tech": "Python · Raspberry Pi · GPIO",
+    "github": "#"
+  }
+]

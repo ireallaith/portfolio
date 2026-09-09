@@ -1,0 +1,26 @@
+[
+  {
+    "type": "writing",
+    "tag": "OPINION",
+    "date": "2026.02.28",
+    "title": "Switching From VS Code to Neovim (and Regretting Some of It)",
+    "excerpt": "Three weeks in, faster in some ways, slower in others, and a keybinding rabbit hole I didn't see coming.",
+    "link": "#"
+  },
+  {
+    "type": "writing",
+    "tag": "EXPERIENCE",
+    "date": "2026.01.03",
+    "title": "48 Hours, One Hackathon, Zero Sleep",
+    "excerpt": "What our team shipped, what broke on stage, and the git merge conflict that almost ended the demo.",
+    "link": "#"
+  },
+  {
+    "type": "writing",
+    "tag": "TUTORIAL",
+    "date": "2025.11.20",
+    "title": "Database Normalization Actually Makes Sense Now",
+    "excerpt": "The 1NF-to-3NF explanation I wish someone had given me before my DBMS midterm.",
+    "link": "#"
+  }
+]

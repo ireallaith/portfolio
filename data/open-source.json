@@ -1,0 +1,28 @@
+[
+  {
+    "type": "project",
+    "icon": "code",
+    "title": "TaskFlow",
+    "excerpt": "A minimal task manager I built to stop losing track of assignments. Drag-and-drop boards, deadline reminders, way too much time spent on the animations.",
+    "tech": "React · Node.js · MongoDB",
+    "github": "#",
+    "demo": "#"
+  },
+  {
+    "type": "project",
+    "icon": "code",
+    "title": "SchemaSense",
+    "excerpt": "A CLI tool that reads a messy CSV and spits out a normalized SQL schema. Built it for a class project; still use it for every project since.",
+    "tech": "Python · SQLite · CLI",
+    "github": "#"
+  },
+  {
+    "type": "project",
+    "icon": "code",
+    "title": "Campus Eats",
+    "excerpt": "A crowd-sourced map of what's actually good in the dining hall this week. Started as a joke, now has real active users.",
+    "tech": "React Native · Firebase",
+    "github": "#",
+    "demo": "#"
+  }
+]
